@@ -1,2 +1,2 @@
-# tinderClone
-Clone of tinder application in ionic v1
+# TVChat
+Chat about TV shows - an application made using Ionic V1 and Google Firebase
